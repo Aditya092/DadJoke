@@ -14,3 +14,6 @@ button:hover
   cursor : pointer;
   
 }
+body {
+  background-color:red;
+}

@@ -6,6 +6,7 @@ button
   border-radius: 5px;
   width: 100px;
   height: 30px;
+  margin-bottom: 20px;
 }
 button:hover
 {
@@ -15,5 +16,14 @@ button:hover
   
 }
 body {
-  background-color:red;
+  background-color:antiquewhite;
+  text-align:center;
+}
+
+footer { 
+    text-align:center;
+}
+
+img {
+    
 }
